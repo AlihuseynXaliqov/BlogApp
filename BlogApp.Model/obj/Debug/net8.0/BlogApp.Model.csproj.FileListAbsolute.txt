@@ -1,0 +1,12 @@
+C:\Users\smart\source\repos\BlogApp\BlogApp.Model\bin\Debug\net8.0\BlogApp.Model.deps.json
+C:\Users\smart\source\repos\BlogApp\BlogApp.Model\bin\Debug\net8.0\BlogApp.Model.dll
+C:\Users\smart\source\repos\BlogApp\BlogApp.Model\bin\Debug\net8.0\BlogApp.Model.pdb
+C:\Users\smart\source\repos\BlogApp\BlogApp.Model\obj\Debug\net8.0\BlogApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smart\source\repos\BlogApp\BlogApp.Model\obj\Debug\net8.0\BlogApp.Model.AssemblyInfoInputs.cache
+C:\Users\smart\source\repos\BlogApp\BlogApp.Model\obj\Debug\net8.0\BlogApp.Model.AssemblyInfo.cs
+C:\Users\smart\source\repos\BlogApp\BlogApp.Model\obj\Debug\net8.0\BlogApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\smart\source\repos\BlogApp\BlogApp.Model\obj\Debug\net8.0\BlogApp.Model.sourcelink.json
+C:\Users\smart\source\repos\BlogApp\BlogApp.Model\obj\Debug\net8.0\BlogApp.Model.dll
+C:\Users\smart\source\repos\BlogApp\BlogApp.Model\obj\Debug\net8.0\refint\BlogApp.Model.dll
+C:\Users\smart\source\repos\BlogApp\BlogApp.Model\obj\Debug\net8.0\BlogApp.Model.pdb
+C:\Users\smart\source\repos\BlogApp\BlogApp.Model\obj\Debug\net8.0\ref\BlogApp.Model.dll

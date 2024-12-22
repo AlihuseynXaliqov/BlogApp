@@ -1,0 +1,12 @@
+C:\Users\smart\source\repos\BlogApp\BlogApp.Controller\bin\Debug\net8.0\BlogApp.Controller.deps.json
+C:\Users\smart\source\repos\BlogApp\BlogApp.Controller\bin\Debug\net8.0\BlogApp.Controller.dll
+C:\Users\smart\source\repos\BlogApp\BlogApp.Controller\bin\Debug\net8.0\BlogApp.Controller.pdb
+C:\Users\smart\source\repos\BlogApp\BlogApp.Controller\obj\Debug\net8.0\BlogApp.Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smart\source\repos\BlogApp\BlogApp.Controller\obj\Debug\net8.0\BlogApp.Controller.AssemblyInfoInputs.cache
+C:\Users\smart\source\repos\BlogApp\BlogApp.Controller\obj\Debug\net8.0\BlogApp.Controller.AssemblyInfo.cs
+C:\Users\smart\source\repos\BlogApp\BlogApp.Controller\obj\Debug\net8.0\BlogApp.Controller.csproj.CoreCompileInputs.cache
+C:\Users\smart\source\repos\BlogApp\BlogApp.Controller\obj\Debug\net8.0\BlogApp.Controller.sourcelink.json
+C:\Users\smart\source\repos\BlogApp\BlogApp.Controller\obj\Debug\net8.0\BlogApp.Controller.dll
+C:\Users\smart\source\repos\BlogApp\BlogApp.Controller\obj\Debug\net8.0\refint\BlogApp.Controller.dll
+C:\Users\smart\source\repos\BlogApp\BlogApp.Controller\obj\Debug\net8.0\BlogApp.Controller.pdb
+C:\Users\smart\source\repos\BlogApp\BlogApp.Controller\obj\Debug\net8.0\ref\BlogApp.Controller.dll
